@@ -1,3 +1,8 @@
+'''
+Image and Video Processing, Section A
+
+Computer Assignment 5
+'''
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt

@@ -1,3 +1,8 @@
+'''
+Image and Video Processing, Section A
+
+Computer Assignment 4
+'''
 #Import neccessary library
 import os
 import cv2
